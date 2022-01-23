@@ -6,3 +6,6 @@ altura = float(input("Insira a altura, para calcular o peso ideal: "))
 peso_ideal = (72.7 * altura) - 58
 
 print("O seu peso ideal é: %.1f" % peso_ideal + " kg, com base na altura inserida.")
+
+print("")
+input("Pressione enter para sair...")

@@ -10,3 +10,6 @@ mediavariavel = nota_um + nota_dois + nota_tres + nota_quatro / 4
 
 print("A média das quatro notas em inteiro foi: " + str(mediainteiro))
 print("A média das quatro notas em variavel foi: " + str(mediavariavel))
+
+print("")
+input("Pressione enter para sair...")

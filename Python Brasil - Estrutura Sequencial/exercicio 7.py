@@ -14,3 +14,6 @@ dobro_area = area * 2
 
 print("A área do quadrado de acordo com as medidas escolhidas é de: " +str (area))
 print("O dobro desta área será: " +str (dobro_area))
+
+print("")
+input("Pressione enter para sair...")

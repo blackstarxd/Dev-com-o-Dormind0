@@ -6,3 +6,6 @@ Celsius = float(input("Informe uma temperatura em graus Celsius: "))
 Fahrenheit = Celsius * 1.8 + 32
 
 print("A temperatura informada convertida será de: %.1f" % Fahrenheit + " graus Fahrenheit.")
+
+print("")
+input("Pressione enter para sair...")

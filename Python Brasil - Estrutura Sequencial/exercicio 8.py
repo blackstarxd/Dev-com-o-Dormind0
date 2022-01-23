@@ -12,3 +12,6 @@ hora_extra = hora_de_trabalho * 1.5
 
 print("Você recebe: R$ " +str(salario) + " por mês.")
 print("Você receberá : R$ " +str(hora_extra) + " por cada hora extra, de segunda a sabado.")
+
+print("")
+input("Pressione enter para sair...")

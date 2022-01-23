@@ -15,3 +15,6 @@ if(peso_de_peixes > 50):
     print("Você recebeu uma multa no valor de: R$ " + str(multa * excesso) + "0, por causa dos " +str(excesso) + " kg excedentes.")
 else:
     print("Você não precisa pagar a multa.")
+    
+    print("")
+input("Pressione enter para sair...")

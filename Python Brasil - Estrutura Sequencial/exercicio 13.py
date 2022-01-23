@@ -10,3 +10,6 @@ peso_ideal_mulher = (62.1 * altura) - 44.7
 
 print("Caso você seja homem o seu peso ideal é: %.1f" % peso_ideal_homem + " kg, com base na altura inserida.")
 print("Caso você seja mulher o seu peso ideal é: %.1f" % peso_ideal_mulher + " kg, com base na altura inserida.")
+
+print("")
+input("Pressione enter para sair...")

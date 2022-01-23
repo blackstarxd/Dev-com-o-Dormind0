@@ -4,4 +4,7 @@ primeiro_numero = int(input("Digite um número: "))
 segundo_numero = int(input("Digite outro número: "))
 soma = primeiro_numero + segundo_numero
 
-print(soma)
+print("A soma dos números é: " + str(soma))
+
+print("")
+input("Pressione enter para sair...")

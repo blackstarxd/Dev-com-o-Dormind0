@@ -3,3 +3,6 @@
 numero = int(input("Digite um número: "))
 
 print("O número informado foi " +str (numero))
+
+print("")
+input("Pressione enter para sair...")

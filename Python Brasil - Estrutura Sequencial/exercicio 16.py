@@ -19,6 +19,8 @@ valor_da_lata = float(80)
 qtd_de_latas = round(float(area_pintada / cobertura_da_tinta_lata) + 0.5)
 
 print("Você precisará de " +str (qtd_de_latas)  + " latas de tinta arredondando para cima.")
-print("O valor será de: R$ " +str(qtd_de_latas * valor_da_lata) + "0")
+print("Cada lata, custa R$: " + str(valor_da_lata) + "0.")
+print("O valor total será de: R$ " +str(qtd_de_latas * valor_da_lata) + "0.")
 
-
+print("")
+input("Pressione enter para sair...")

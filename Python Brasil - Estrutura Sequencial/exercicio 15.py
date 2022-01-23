@@ -27,3 +27,6 @@ print("IR (11%): R$ " + str(ir))
 print("INSS (8%): R$ "+ str(inss))
 print("Sindicato ( 5%): R$ " + str(sindicato))
 print("Salário Liquido: R$ " + str(salario_liquido))
+
+print("")
+input("Pressione enter para sair...")
