@@ -9,3 +9,6 @@ else:
         print("M ou m é de Masculino.")
     else:
         print("Sexo Inválido.")
+        
+print("")
+input("Pressione enter para sair...")

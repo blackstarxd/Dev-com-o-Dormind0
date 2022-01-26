@@ -9,3 +9,6 @@ else:
         print("O número escolhido é positivo.")
     else:
         print("O número escolhido é negativo.")
+        
+print("")
+input("Pressione enter para sair...")
