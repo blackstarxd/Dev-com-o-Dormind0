@@ -18,10 +18,10 @@ print(f'O maior número: {maior}.')
 if(primeiro_numero > segundo_numero or primeiro_numero > terceiro_numero):
     print("O primeiro numero escolhido foi o maior: " +str(primeiro_numero))
 else:
-    if(segundo_numero < primeiro_numero or segundo_numero < terceiro_numero):
-        print("O terceiro numero escolhido foi o maior: " +str(terceiro_numero))
-    else:
+    if(segundo_numero > terceiro_numero):
         print("O segundo numero escolhido foi o maior: " +str(segundo_numero))
+    else:
+        print("O terceiro numero escolhido foi o maior: " +str(terceiro_numero))
 
 # maior_numero = None
 
